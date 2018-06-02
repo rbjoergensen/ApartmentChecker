@@ -13,7 +13,7 @@ namespace ListingsNotifier
 {
     public class MyRegistry : Registry
     {
-        // test
+        // test test
         static bool debug = Convert.ToBoolean(Environment.GetEnvironmentVariable("debugmode"));
 
         public MyRegistry()
